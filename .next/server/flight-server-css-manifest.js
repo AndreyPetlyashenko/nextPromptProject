@@ -1,0 +1,21 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/mnt/linux/work/projects/petProjects/nextPrompt/app/layout.jsx": [
+      "/mnt/linux/work/projects/petProjects/nextPrompt/styles/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/mnt/linux/work/projects/petProjects/nextPrompt/app/page": [
+      "/mnt/linux/work/projects/petProjects/nextPrompt/styles/globals.css"
+    ],
+    "/mnt/linux/work/projects/petProjects/nextPrompt/app/create-prompt/page": [
+      "/mnt/linux/work/projects/petProjects/nextPrompt/styles/globals.css"
+    ],
+    "/mnt/linux/work/projects/petProjects/nextPrompt/app/profile/page": [
+      "/mnt/linux/work/projects/petProjects/nextPrompt/styles/globals.css"
+    ],
+    "/mnt/linux/work/projects/petProjects/nextPrompt/app/update-prompt/page": [
+      "/mnt/linux/work/projects/petProjects/nextPrompt/styles/globals.css"
+    ]
+  }
+}
